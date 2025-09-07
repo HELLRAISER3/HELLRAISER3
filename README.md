@@ -4,14 +4,14 @@
 Avarage **American dream** lover
 I am in love with building projects, solving problems and learning every day.
 
-## 🧑‍💻 About Me
+## About Me
 - 🎓 Currently: High school student from Ukraine
 - 🌱 Learning: Data Science, Algorithmic Trading, and Game Development (Unity)
 - 🚀 Skills: Python, MQL4/5, C#, Unity, SQL
 - 📊 Interests: Finance, Economics, Algorithms, AI
 - 🌎 Goal: Study in the US and contribute to open source & global tech community
   
-## 📫 How to reach me
+## How to reach me
 - Email: transcendence.499@gmail.com
 - Telegram: [@Sahar228](https://t.me/Sahar228)
   
@@ -23,3 +23,7 @@ I am in love with building projects, solving problems and learning every day.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Numpy](https://img.shields.io/badge/MQL5-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-005BA1?style=for-the-badge&logo=code&logoColor=white)
+![MetaTrader 5](https://img.shields.io/badge/MetaTrader%205-009688?style=for-the-badge&logo=chart-line&logoColor=white)
+
