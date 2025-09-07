@@ -25,4 +25,7 @@ I am in love with building projects, solving problems and learning every day.
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![MQL5](https://img.shields.io/badge/MQL5-005BA1?style=for-the-badge&logo=code&logoColor=white)
 ![MetaTrader 5](https://img.shields.io/badge/MetaTrader%205-009688?style=for-the-badge&logo=chart-line&logoColor=white)
+## 🔗 Useful links
+- My trading channel: [hellraiser_fx](https://t.me/hellraiser_fx)
+- My telegram bots channel: [HR_FLOW](https://t.me/hr_automatization)
 
