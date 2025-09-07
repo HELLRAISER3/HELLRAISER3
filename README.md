@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Zahar
 
-<!--
-**HELLRAISER3/HELLRAISER3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 High school student that passionate about **coding, finance, and economics**.  
+Avarage **American dream** lover
+I am in love with building projects, solving problems and learning every day.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 Currently: High school student from Ukraine
+- 🌱 Learning: Data Science, Algorithmic Trading, and Game Development (Unity)
+- 🚀 Skills: Python, MQL4/5, C#, Unity, SQL
+- 📊 Interests: Finance, Economics, Algorithms, AI
+- 🌎 Goal: Study in the US and contribute to open source & global tech community
+  
+## 📫 How to reach me
+- Email: transcendence.499@gmail.com
+- Telegram: [@Sahar228](https://t.me/Sahar228)
+  
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
