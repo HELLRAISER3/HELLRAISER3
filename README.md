@@ -6,7 +6,7 @@ I am in love with building projects, solving problems and learning every day.
 
 ## About Me 🎓
 - **Currently:** High school student from Ukraine
-- **Learning:** Data Science, Algorithmic Trading, and Game Development (Unity)
+- **Learning:** Data Science, Machine Learning, Algorithmic Trading, and Game Development (Unity)
 - **Skills:** Python, MQL4/5, C#, Unity, SQL
 - **Interests:** Finance, Economics, Algorithms, AI
 - **Goal:** Study in the US and contribute to open source & global tech community
