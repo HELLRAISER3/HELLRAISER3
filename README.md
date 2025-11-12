@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Zahar
 
 💻 High school student that passionate about **coding, finance, and economics**.  
-Avarage **American dream** lover
 I am in love with building projects, solving problems and learning every day.
 
 ## About Me 🎓
