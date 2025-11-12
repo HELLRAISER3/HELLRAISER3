@@ -17,7 +17,6 @@ I am in love with building projects, solving problems and learning every day.
   
 ## 🔗 Useful links
 - My trading channel: [hellraiser_fx](https://t.me/hellraiser_fx)
-- My telegram bots channel: [HR_FLOW](https://t.me/hr_automatization)
 - Leetcode: [LeetCode](https://leetcode.com/u/hellraiser3/)
 - CodeForces: [CodeForces](https://codeforces.com/profile/hellraiser333)
   
