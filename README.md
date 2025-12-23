@@ -1,13 +1,14 @@
 ## 👋 Hi, I'm Zahar
 
-💻 High school student that passionate about **coding, finance, and economics**.  
+💻 High school student that passionate about **coding, finance, and data**.  
 I am in love with building projects, solving problems and learning every day.
 
 ## About Me 🎓
 - **Currently:** High school student from Ukraine
-- **Learning:** Data Science, Machine Learning, Algorithmic Trading
-- **Skills:** Python, MQL4/5, C#, Unity, SQL
-- **Interests:** Finance, Economics, Algorithms, AI
+- **Learning:** Data Science, Machine Learning, DevOps
+- **Building:** Data driven AI wellbeing app 
+- **Skills:** Python, MQL4/5, SQL, Numpy, Sklearn, pyTorch
+- **Interests:** Finance, Algorithms, AI
 - **Goal:** Study in the US and contribute to open source & global tech community
   
 ## How to reach me
@@ -22,7 +23,6 @@ I am in love with building projects, solving problems and learning every day.
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
