@@ -5,10 +5,10 @@ I am in love with building projects, solving problems and learning every day.
 
 ## About Me 🎓
 - **Currently:** High school student from Ukraine
-- **Learning:** Data Science, Machine Learning, DevOps
-- **Building:** Data driven AI wellbeing app 
+- **Learning:** Deep Learning, NLP
+- **Building:** Data driven BLANC AI app that helps people to achive their goals
 - **Skills:** Python, MQL4/5, SQL, Numpy, Sklearn, pyTorch
-- **Interests:** Finance, Algorithms, AI
+- **Interests:** Finance, Algorithms, Trading, AI
 - **Goal:** Study in the US and contribute to open source & global tech community
   
 ## How to reach me
@@ -18,7 +18,6 @@ I am in love with building projects, solving problems and learning every day.
 ## 🔗 Useful links
 - My trading channel: [hellraiser_fx](https://t.me/hellraiser_fx)
 - Leetcode: [LeetCode](https://leetcode.com/u/hellraiser3/)
-- CodeForces: [CodeForces](https://codeforces.com/profile/hellraiser333)
   
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
