@@ -9,7 +9,6 @@ I am in love with building projects, solving problems and learning every day.
 - **Building:** Data driven BLANC AI app that helps people to achive their goals
 - **Skills:** Python, MQL4/5, SQL, Numpy, Sklearn, pyTorch
 - **Interests:** Finance, Algorithms, Trading, AI
-- **Goal:** Study in the US and contribute to open source & global tech community
   
 ## How to reach me
 - Email: transcendence.499@gmail.com
