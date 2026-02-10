@@ -6,7 +6,7 @@ I specialize in building data-driven systems, solving complex algorithmic proble
 ---
 
 ## Σ About Me
-- → **Building:** [BLANC AI](https://github.com/your-username/blanc-ai) — A data-driven application designed to help people achieve their goals through AI.
+- → **Building:** [BLANC AI](https://github.com/BLANC-achive-your-goals) — A data-driven application designed to help people achieve their goals through AI.
 - → **Current Focus:** Deep Learning, Natural Language Processing (NLP), and MLOps.
 - → **Interests:** Quantitative Finance, and Scalable Infrastructure.
 - → **Learning:** ML App architecture. Modern AI solutions, transformers.
