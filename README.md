@@ -43,7 +43,8 @@ I specialize in building data-driven systems, solving complex algorithmic proble
 - → **Email:** [transcendence.499@gmail.com](mailto:transcendence.499@gmail.com)
 - → **Telegram:** [@Sahar228](https://t.me/Sahar228)
 - → **Trading Channel:** [hellraiser_fx](https://t.me/hellraiser_fx)
-- → **LeetCode:** [hellraiser3](https://leetcode.com/u/hellraiser3/)
+- → **LinkedIn:** [ZaharZheget](https://www.linkedin.com/in/zahar-zheget-b56ab32a6/)
+- 
 
 ---
 
