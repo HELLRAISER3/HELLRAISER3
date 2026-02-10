@@ -1,6 +1,6 @@
 # ツ Hi, I'm Zahar
 
-**Aspiring Quantitative Developer & AI Researcher** 💻 High school student from Ukraine passionate about **coding, finance, and data**.  
+**Aspiring Machine Learning Engineer & AI Researcher** High school student from Ukraine passionate about **coding, finance, and data**.  
 I specialize in building data-driven systems, solving complex algorithmic problems.
 
 ---
