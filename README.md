@@ -44,7 +44,6 @@ I specialize in building data-driven systems, solving complex algorithmic proble
 - → **Telegram:** [@Sahar228](https://t.me/Sahar228)
 - → **Trading Channel:** [hellraiser_fx](https://t.me/hellraiser_fx)
 - → **LinkedIn:** [ZaharZheget](https://www.linkedin.com/in/zahar-zheget-b56ab32a6/)
-- 
 
 ---
 
