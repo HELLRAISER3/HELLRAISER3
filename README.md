@@ -1,19 +1,8 @@
-# ツ Hi, I'm Zahar
+# ツ
 
-**Aspiring Machine Learning Engineer & AI Researcher** High school student from Ukraine passionate about **coding, finance, and data**.  
-I specialize in building data-driven systems, solving complex algorithmic problems.
-
+**MLE, AI, DSE, Backend**
 ---
-
-## Σ About Me
-- → **Current Focus:** Deep Learning, Natural Language Processing (NLP), and MLOps.
-- → **Interests:** Quantitative Finance, and Scalable Infrastructure.
-- → **Learning:** ML App architecture. Modern AI solutions, transformers.
-
----
-
 ## ∫ Tech Stack
-
 ### ★ Machine Learning & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-8A2BE2?style=flat-square)
@@ -40,9 +29,4 @@ I specialize in building data-driven systems, solving complex algorithmic proble
 
 ## @ Connect With Me
 - → **Email:** [transcendence.499@gmail.com](mailto:transcendence.499@gmail.com)
-- → **Telegram:** [@Sahar228](https://t.me/Sahar228)
 - → **LinkedIn:** [ZaharZheget](https://www.linkedin.com/in/zahar-zheget-b56ab32a6/)
-
----
-
-*“Success is a collection of small problems solved daily.”*
